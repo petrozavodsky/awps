@@ -5,6 +5,10 @@
 
 ## Prerequisites
 
+
+https://www.youtube.com/playlist?list=PLriKzYyLb28kR_CPMz8uierDWC2y3znI2
+https://www.youtube.com/watch?v=NKRheNMczlM&list=PLriKzYyLb28kvx7IVw2sAXtZ2yN4A1otJ
+
 This theme relies on **NPM** and **Composer** in order to load dependencies and packages.
 **Webpack** should always be running and watching during the development process, in order to properly compile and update files.
 
